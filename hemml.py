@@ -27,4 +27,4 @@ class bot:
         time.sleep(10)
 
 if __name__ == "__main__":
-    BOT = bot("aniruddhajoshi12@gmail.com","9920959596Aj")
+    BOT = bot("")
